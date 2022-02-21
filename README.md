@@ -1,1 +1,3 @@
 # CSCI5440-Theory-of-Cryptography
+# 电脑主板烧了之后, 丢了很多东西...
+# 从email box翻出来的
